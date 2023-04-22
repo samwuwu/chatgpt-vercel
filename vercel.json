@@ -18,10 +18,6 @@
       "path": "/api/cron",
       "schedule": "0 12 * * *"
     },
-    {
-      "path": "/api/cron",
-      "schedule": "0 13 * * *"
-    }
   ],
   "github": {
     "silent": true
